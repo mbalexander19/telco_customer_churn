@@ -5,6 +5,11 @@ Classification model to predict customer churn at a telecommunications company. 
 * Performing exploratory data analysis to identify important features
 * Encoding categorical variables for use in ML models
 * Using logistic regression with Scikit-learn for classification
+* Evaluating model accuracy
+* Determining errors and deriving precision/recall from confusion table
+* Using receiver operating characteristics an AUC to understand model performance
+* Cross-validating a model
+* Tuning model parameters for best predictive performance
 
 Project from Machine Learning Bookcamp by Alexey Grigorev, copyright Manning Publications, 2021. Available from publisher at https://www.manning.com/books/machine-learning-bookcamp.
 
